@@ -16,3 +16,5 @@ Terraria style game created using Python and PyGame
 
 ## More Info
 This is an unfinished game I made back in highschool.
+
+*Requires Python 3.x and PyGame*
