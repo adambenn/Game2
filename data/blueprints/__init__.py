@@ -1,0 +1,1 @@
+__all__ = ['Blueprint-House1', 'Blueprint-Townhall1']
